@@ -30,7 +30,7 @@
  * in all cases (see below).
  */
 
-#define BITS_IN_JSAMPLE  8	/* use 8, 9, 10, 11, or 12 */
+#define BITS_IN_JSAMPLE  12	/* use 8, 9, 10, 11, or 12 */
 
 
 /*
