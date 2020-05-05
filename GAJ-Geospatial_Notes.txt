@@ -1,0 +1,1 @@
+Set the envionment for this package as JPEG_DIR
