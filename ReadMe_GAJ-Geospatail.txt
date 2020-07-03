@@ -1,0 +1,1 @@
+This project should be installed as JPEG_DIR with ProjectTool.
